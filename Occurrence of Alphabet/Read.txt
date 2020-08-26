@@ -1,4 +1,0 @@
-Occurrence of Alphabet:
- Input : One String or Sentence And a Character.
-
- Output  : count the total occurrence of the character in the string or sentence.

@@ -1,9 +1,6 @@
-
-package JavaDimikOJProblems;
-
 import java.util.Scanner;
 
-public class JavaProblem15 {
+public class CountAllCharacter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int line = input.nextInt();
